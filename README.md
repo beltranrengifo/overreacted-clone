@@ -21,6 +21,7 @@ That's why I propose this small exercise, trying to keep ourselves a little bit 
 * Use Tailwind, and try to write the less CSS you can. Why? I don't know, it should be fun to dive in Tailwind docs, it's a really well done API for a CSS library. We can use [this handy module for Nuxt](https://tailwindcss.nuxtjs.org/).
 * Of course, install Eslint and Prettier, and make these two [coexist together properly](https://github.com/prettier/eslint-config-prettier) 💀
 * [StyleLint](https://stylelint.io/) and [CommitLint](https://github.com/conventional-changelog/commitlint) are good optional choices to keep the house clean adn tidy
+* Try to replicate the light/dark mode, it's fun.
 * If you feel strong enough, please add some unit testing
 
 > Disclaimer => Most of this configs, if not all, are selectable from the Nuxt create app CLI, do not panic. But probably you`ll need to tweak the settings along you code the app. Fun!
@@ -34,3 +35,4 @@ If you need to follow some first steps to get started, here we go:
 * Create a `content` directory for our posts
 * Fetch your first data using `asyncData` from the homepage
 
+> Skip all those functionalities you do not want to replicate, ie: code highlighting, subscribing form, etc...
