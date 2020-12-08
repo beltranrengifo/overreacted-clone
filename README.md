@@ -17,7 +17,7 @@ That's why I propose this small exercise, trying to keep ourselves a little bit 
 
 * Use Vue.js through it's most used and loved SSR framework, [Nuxt](https://nuxtjs.org/docs/2.x/get-started/installation) 😻
 * For the API, we'll use [@nuxt/content module](https://content.nuxtjs.org/). You can choose which file format to use, but the exercise will provide Markdown files.
-* Use [Typescript](https://typescript.nuxtjs.org/) to type methods, computed properties, and try at leat to implement one interface, probably the post model will fit okay 👀
+* Use [Typescript](https://typescript.nuxtjs.org/) to type methods, computed properties, and try at least to implement one interface, probably the post model will fit okay 👀
 * Use Tailwind, and try to write the less CSS you can. Why? I don't know, it should be fun to dive in Tailwind docs, it's a really well done API for a CSS library. We can use [this handy module for Nuxt](https://tailwindcss.nuxtjs.org/).
 * Of course, install Eslint and Prettier, and make these two [coexist together properly](https://github.com/prettier/eslint-config-prettier) 💀
 * [StyleLint](https://stylelint.io/) and [CommitLint](https://github.com/conventional-changelog/commitlint) are good optional choices to keep the house clean adn tidy
