@@ -8,7 +8,7 @@ Dan Abramov is co-creator of Redux and an active member of React core team. I ca
 
 ## The goal
 
-We benefit everyday from the ODS design system, a powerful but limited ecosystem where we feel comfy. But there are other tools out there we don't use, and we can't adopt it as fast as we like. We are a large team of developers and we should make smart and safe moves.
+We benefit everyday from the ODS design system, a powerful but limited ecosystem where we feel comfy. There are other tools out there we don't use, and we can't adopt them as fast as we like. We are a large team of developers and we should make smart and safe moves.
 
 That's why I propose this small exercise, trying to keep ourselves a little bit more up to date.
 
